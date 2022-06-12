@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "drop-first",
+      "type": "java.lang.String",
+      "description": "Description for drop-first."
+  }
+] }
